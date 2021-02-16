@@ -1,1 +1,1 @@
-To run tasks execute Database.sql file
+To run tasks execute Database.sql file first
